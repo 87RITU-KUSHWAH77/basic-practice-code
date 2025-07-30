@@ -56,11 +56,8 @@ public class Day_1{
             System.out.println("Gender :" +gender);
 
 
-<<<<<<< HEAD
             // 2 swap with or without third var
-=======
         //     // 2 swap with or without third var
->>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
             int a = 5;
             int b = 6;
             System.out.println("a :" +a);
@@ -211,6 +208,8 @@ public class Day_1{
         }
 
        Sc.close();
+
+       
 
     }
 }
