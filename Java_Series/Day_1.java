@@ -38,7 +38,11 @@ public class Day_1{
 
         //     // Assignment Day-1 
 
+<<<<<<< HEAD
             // 1
+=======
+        //     // 1
+>>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
             int age = 20;
             float height = 5.6f;
             Double salary = 1560000000000000000000000.00;
@@ -52,18 +56,28 @@ public class Day_1{
             System.out.println("Gender :" +gender);
 
 
+<<<<<<< HEAD
             // 2 swap with or without third var
+=======
+        //     // 2 swap with or without third var
+>>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
             int a = 5;
             int b = 6;
             System.out.println("a :" +a);
             System.out.println("b :" +b);
             
+<<<<<<< HEAD
             // method-1
+=======
+>>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
             int temp = a;         // temp var logic
             a = b;
             b = temp;
 
+<<<<<<< HEAD
             // method-2
+=======
+>>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
             a = a+b;  //  a -> 11
             b = a-b;  //  b -> 11-6 = 5  with swap
             a = a-b;  // a -> 11-5 = 6  with swap  
@@ -75,12 +89,20 @@ public class Day_1{
             System.out.println("enter the radius:");
             float r = Sc.nextFloat();
 
+<<<<<<< HEAD
             float area = (float) (Math.PI*r*r);
+=======
+            float area = Math.PI*r*r;
+>>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
             System.out.println("Area of a Circle :" + area);
 
             // 4 Salary double 
             double salary = 2500000.0;
+<<<<<<< HEAD
             System.out.println("your updated Salary:" + (int)(salary*2));
+=======
+            System.out.println("your updated Salary:" + salary*salary);
+>>>>>>> b96f2ded12a745e67612016ab776c54fab0b6ce8
 
         //     // 5
             char name  = 'A';
